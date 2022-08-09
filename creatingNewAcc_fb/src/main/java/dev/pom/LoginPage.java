@@ -120,7 +120,6 @@ public class LoginPage {
 		LoginPage.waitUntilWebEle(pin3).sendKeys(prop.getProperty("pin3"));
 		LoginPage.waitUntilWebEle(pin4).sendKeys(prop.getProperty("pin4"));
 		//LoginPage.waitUntilWebEle(growwHomebtn).click();
-		
 		System.out.println();
 	}
 
